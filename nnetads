@@ -1,0 +1,18 @@
+!
+! Title: noi 
+! Description: for nnet
+! Version: 1.0
+! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+! Last modified: 2026-08-24T04:19:31.672Z
+!
+||*.website^
+||*.online^
+||*.space^
+||*.win^
+||*.run^
+||lin.ee^
+||cdn.livescorethai.asia^
+||goto.nix68.com^
+||t.me^
+||t.ly^
+||ufaxspin.com^
