@@ -2,8 +2,7 @@
 ! Title: noi 
 ! Description: for nnet
 ! Version: 1.0
-! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-08-24T04:19:31.672Z
+! Last modified: 2026-08-24
 !
 ||*.website^
 ||*.online^
