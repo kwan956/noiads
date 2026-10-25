@@ -4,7 +4,6 @@
 ! Version: 1.0
 !
 /tracker/
-||*.buzz^
 ||*.website^
 ||*.online^
 ||*.space^
