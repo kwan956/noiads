@@ -4,12 +4,11 @@
 ! Version: 1.0
 !
 /tracker/
+||*.buzz^
 ||*.website^
 ||*.online^
 ||*.space^
-||*.cc^
 ||*.sbs^
-||ibit.ly^
 ||ubta.tracking.shopee.co.th^
 ||wproads.com^
 ||proadsmedia.com^
@@ -49,3 +48,11 @@
 ||1337.abcvg.info^
 ||2026-10-08.urldance.com^
 ||tr.kxmp.cf^
+||images.easy-eng.com^ 
+||banner.picasso12.com^
+||goto.nix68.com^
+||www.enter12.com^
+||payment.picasso12.com^
+||sportsimgs.picasso12.com^
+||nsc.detecas.com^
+||scripts.mediamathrdrt.com^
