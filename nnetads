@@ -3,12 +3,10 @@
 ! Description: for nnet
 ! Version: 1.0
 !
-/tracker/
 ||*.website^
 ||*.online^
 ||*.space^
 ||*.sbs^
-||ubta.tracking.shopee.co.th^
 ||wproads.com^
 ||proadsmedia.com^
 ||cdnads.net^
